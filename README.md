@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grimello&label=Profile%20views&color=0e75b6&style=flat" alt="grimello" /> </p>
 
-- 🔭 Atualmente estou trabalhando com **e-Business e Saúde emocional de colaboradores**
+- 🔭 Atualmente estou trabalhando com **e-Business e Saúde emocional**
 
 - 🌱 Neste momento estou aprendendo **Machine Learning e NLP**
 
